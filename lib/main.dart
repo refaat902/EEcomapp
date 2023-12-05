@@ -6,6 +6,7 @@ import 'package:ec/view/splash/splash_screen.dart';
 import 'package:ec/view/verification/verification_screen.dart';
 import 'package:flutter/material.dart';
 
+// git hub comment
 void main() {
   runApp(const MyApp());
 }
